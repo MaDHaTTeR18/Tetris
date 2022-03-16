@@ -1,2 +1,2 @@
 # Tetris
-A simple tetris game using C++ based on youtube tutorial.
+A console based simple tetris game using C++.
